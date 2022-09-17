@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "name":"Woo Ninja",
+        "category":"Hoddie",
+        "image":"./Assets/Product_1.jpg",
+        "price":"35.00",
+        "color":"pink",
+        "size":"XXL",
+        "quantity":"1"
+    },
+    {
+        "id":2,
+        "name":"Woo Logo",
+        "category":"Hoddie",
+        "image":"./Assets/Product_2.jpg",
+        "price":"35.00",
+        "color":"pink",
+        "size":"XL",
+        "quantity":"1"
+    },
+    {
+        "id":3,
+        "name":"Patient Ninja",
+        "category":"Hoddie",
+        "image":"./Assets/product_3.jpg",
+        "price":"35.00",
+        "color":"pink",
+        "size":"L",
+        "quantity":"1"
+    },
+    {
+        "id":4,
+        "name":"Patient shirt",
+        "category":"Tshirt",
+        "image":"./Assets/tshirt_1.jpg",
+        "price":"35.00",
+        "color":"pink",
+        "size":"L",
+        "quantity":"1"
+    }
+]
